@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@lc5900](https://github.com/lc5900?bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+- 👋 Hi, I’m [@lc5900](https://github.com/lc5900?bg_color=1e1e2e)
 - 👀 I’m interested in **Golang** **Java** **Android**
 - 🌱 I’m currently learning **Golang**
 - 📫 How to reach me [liuchun4tc@gmail.com](mailto:liuchun4tc@gmail.com)
